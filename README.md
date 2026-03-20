@@ -1,2 +1,3 @@
-# fast-web-app-vwbc
-Repository to test GitHub automation for issue management
+# Fast Web App Vwbc
+
+A repository to test GitHub automation for issue management.
